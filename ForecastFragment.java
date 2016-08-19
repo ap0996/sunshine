@@ -110,6 +110,7 @@ public class ForecastFragment extends Fragment {
                 }
             }
 
-        return null;}
+        return null;}       //this return statement is not in actual code from udacity.with this statement the code shows error 
+                            //and with this return statement the code compiles but the app in not working
     }
 }
